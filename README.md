@@ -1,7 +1,8 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+[Heroku deployment](https://shrouded-everglades-30362.herokuapp.com/).
+
+This README would normally document whatever steps are necessary to get the application up and running.
 
 Things you may want to cover:
 
@@ -20,5 +21,3 @@ Things you may want to cover:
 * Services (job queues, cache servers, search engines, etc.)
 
 * Deployment instructions
-
-* ...
